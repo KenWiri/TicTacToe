@@ -86,6 +86,7 @@ h1 {
 	align-items: center;
 	overflow-x:auto;
 	border-collapse: collapse;
+	vertical-align: top;
 }
 .right-box {
 	width:20%;
@@ -102,6 +103,7 @@ h1 {
 	padding: 0;
 	margin:auto;
 	background-color: silver;
+	vertical-align: top;
 
 }
 button {
